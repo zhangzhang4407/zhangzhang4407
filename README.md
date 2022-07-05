@@ -5,7 +5,7 @@
       <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
       <td>
         <ul>
-          <li>Hey there, I am Chinese coding farmer</a></li>
+          <li>Hey there, I am a Chinese coding farmer</a></li>
           <li>I’m a full-stack engineer</li>
           <li>I have a <a href="#">personal blog</a> where you can find a lot of recruitment-related content in the blog.</li>
           <li>I enjoy contributing to open source projects and currently, I am contributing to <em><a href="#"></a>Comming soon</em>.
